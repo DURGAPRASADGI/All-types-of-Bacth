@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<salesman>
+	<salesman>
+		<city>Vsp</city>
+		<commission>12.45</commission>
+		<name>durga</name>
+		<salesId>1</salesId>
+	</salesman>
+	<salesman>
+		<city>Vsp</city>
+		<commission>17.45</commission>
+		<name>ganesh</name>
+		<salesId>2</salesId>
+	</salesman>
+	<salesman>
+		<city>Vsp</city>
+		<commission>18.45</commission>
+		<name>venu</name>
+		<salesId>3</salesId>
+	</salesman>
+</salesman>
